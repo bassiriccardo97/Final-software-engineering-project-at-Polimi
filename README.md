@@ -18,7 +18,7 @@
 | Domination or Towers modes | [![RED](https://placehold.it/15/f03c15/f03c15)](#) |
 | Terminator | [![GREEN](https://placehold.it/15/44bb44/44bb44)](#) |
 
-### No parameters needed in order to run jars.
+### No parameters needed in order to run jars in Deliverables folder.
 
 <!--
 [![RED](https://placehold.it/15/f03c15/f03c15)](#)
